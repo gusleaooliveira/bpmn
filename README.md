@@ -1,8 +1,7 @@
 # Atividade
 ## Atividade 02
 
-* Você vai modelar o processo de suporte técnico de uma empresa de
-condicionadores de ar. O processo inicia no SAC (Serviço de atendimento
+* Você vai modelar o processo de suporte técnico de uma empresa de condicionadores de ar. O processo inicia no SAC (Serviço de atendimento
 ao cliente). Você entrevistou o analista de suporte e ele explicou
 resumidamente o fluxo padrão para resolver problemas técnicos que são
 relatados pelos clientes após instalação do aparelho:

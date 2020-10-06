@@ -1,7 +1,7 @@
 # Atividade
 ## Atividade 02
 
-* Você vai modelar o processo de suporte técnico de uma empresa de condicionadores de ar. O processo inicia no SAC (Serviço de atendimento
+Você vai modelar o processo de suporte técnico de uma empresa de condicionadores de ar. O processo inicia no SAC (Serviço de atendimento
 ao cliente). Você entrevistou o analista de suporte e ele explicou
 resumidamente o fluxo padrão para resolver problemas técnicos que são
 relatados pelos clientes após instalação do aparelho:
@@ -20,13 +20,13 @@ qual era a causa do problema e/ou peças que foram trocadas.
 suporte, que entra em contato com o cliente para verificar se o problema foi resolvido.
 - Em seguida a analista de suporte encerra o caso aberto no sistema de atendimento e o
 processo é finalizado.
-* Modele o processo As-Is do suporte técnico utilizando o Bizagi.
-* Represente o “caminho do dia feliz” (não é necessário representar o
+Modele o processo As-Is do suporte técnico utilizando o Bizagi.
+Represente o “caminho do dia feliz” (não é necessário representar o
 cliente como participante deste processo).
-* Represente o processo provado que ocorre dentro da empresa (não é
+Represente o processo provado que ocorre dentro da empresa (não é
 necessário representar o cliente como participante deste processo).
-* Utilize uma piscina com raias para representar os papéis internos.
-* Use e abuse dos artefatos para documentar o que acontece dentro do
+Utilize uma piscina com raias para representar os papéis internos.
+Use e abuse dos artefatos para documentar o que acontece dentro do
 processo.
 
 # Tarefas

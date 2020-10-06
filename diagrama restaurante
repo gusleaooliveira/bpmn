@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T03:39:17.452Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="u8Bz-fzszR_M5XaVbR2o" version="13.7.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-06T04:48:36.500Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="i_mXN7hGlm7bliDc5xHy" version="13.7.7" type="github" pages="2">
   <diagram id="XnW3_FOO6l8-Omm2am4-" name="Page-1">
     <mxGraphModel dx="854" dy="1570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -136,19 +136,30 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SAxvJvDvN9WPXSz892Fz-6" value="To-Be Restaurante" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" vertex="1" parent="SAxvJvDvN9WPXSz892Fz-1">
-          <mxGeometry x="20" y="480" width="780" height="320" as="geometry" />
+          <mxGeometry x="20" y="480" width="780" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="SAxvJvDvN9WPXSz892Fz-7" value="Lane 1" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="SAxvJvDvN9WPXSz892Fz-6">
-          <mxGeometry x="20" width="760" height="80" as="geometry" />
+        <mxCell id="SAxvJvDvN9WPXSz892Fz-7" value="Cliente" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="SAxvJvDvN9WPXSz892Fz-6">
+          <mxGeometry x="20" width="760" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1MeXePuTHojgqh6-qh3G-1" value="Servir Salada" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;strokeColor=#000000;fillColor=#ffffff;gradientColor=none;" vertex="1" parent="SAxvJvDvN9WPXSz892Fz-7">
+          <mxGeometry x="170" y="20" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="SAxvJvDvN9WPXSz892Fz-11" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=standard;symbol=message;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="SAxvJvDvN9WPXSz892Fz-7">
           <mxGeometry x="40" y="25" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SAxvJvDvN9WPXSz892Fz-8" value="Lane 2" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="SAxvJvDvN9WPXSz892Fz-6">
-          <mxGeometry x="20" y="80" width="760" height="120" as="geometry" />
+        <mxCell id="SAxvJvDvN9WPXSz892Fz-8" value="Atendente Entrada" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="SAxvJvDvN9WPXSz892Fz-6">
+          <mxGeometry x="20" y="140" width="760" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="SAxvJvDvN9WPXSz892Fz-9" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="SAxvJvDvN9WPXSz892Fz-6">
-          <mxGeometry x="20" y="200" width="760" height="120" as="geometry" />
+        <mxCell id="SAxvJvDvN9WPXSz892Fz-26" value="Gera comanda" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="SAxvJvDvN9WPXSz892Fz-8">
+          <mxGeometry x="40" y="30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxvJvDvN9WPXSz892Fz-9" value="Atendente ()" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="SAxvJvDvN9WPXSz892Fz-6">
+          <mxGeometry x="20" y="260" width="760" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxvJvDvN9WPXSz892Fz-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SAxvJvDvN9WPXSz892Fz-6" source="SAxvJvDvN9WPXSz892Fz-11" target="SAxvJvDvN9WPXSz892Fz-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="75" y="199.9999999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="SAxvJvDvN9WPXSz892Fz-10" value="Transportadora" style="swimlane;startSize=20;horizontal=0;" vertex="1" parent="SAxvJvDvN9WPXSz892Fz-1">
           <mxGeometry x="40" y="920" width="750" height="120" as="geometry" />

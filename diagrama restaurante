@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T02:48:20.172Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="rBWD-Du3HeuMI7Lp7KuS" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-06T03:39:17.452Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="u8Bz-fzszR_M5XaVbR2o" version="13.7.7" type="github" pages="2">
   <diagram id="XnW3_FOO6l8-Omm2am4-" name="Page-1">
     <mxGraphModel dx="854" dy="1570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,6 +114,47 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1585" y="62.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4QbkwEnbzvnZKg85V85q" name="Page-2">
+    <mxGraphModel dx="854" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="SAxvJvDvN9WPXSz892Fz-0" />
+        <mxCell id="SAxvJvDvN9WPXSz892Fz-1" parent="SAxvJvDvN9WPXSz892Fz-0" />
+        <mxCell id="SAxvJvDvN9WPXSz892Fz-5" value="Cliente" style="swimlane;startSize=20;horizontal=0;" vertex="1" parent="SAxvJvDvN9WPXSz892Fz-1">
+          <mxGeometry x="30" y="290" width="750" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxvJvDvN9WPXSz892Fz-15" value="" style="group" vertex="1" connectable="0" parent="SAxvJvDvN9WPXSz892Fz-5">
+          <mxGeometry x="70" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxvJvDvN9WPXSz892Fz-13" value="" style="startArrow=oval;startFill=0;startSize=7;endArrow=block;endFill=0;endSize=10;dashed=1;html=1;" edge="1" parent="SAxvJvDvN9WPXSz892Fz-15" target="SAxvJvDvN9WPXSz892Fz-11">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="20" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SAxvJvDvN9WPXSz892Fz-6" value="To-Be Restaurante" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" vertex="1" parent="SAxvJvDvN9WPXSz892Fz-1">
+          <mxGeometry x="20" y="480" width="780" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxvJvDvN9WPXSz892Fz-7" value="Lane 1" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="SAxvJvDvN9WPXSz892Fz-6">
+          <mxGeometry x="20" width="760" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxvJvDvN9WPXSz892Fz-11" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=standard;symbol=message;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="SAxvJvDvN9WPXSz892Fz-7">
+          <mxGeometry x="40" y="25" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxvJvDvN9WPXSz892Fz-8" value="Lane 2" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="SAxvJvDvN9WPXSz892Fz-6">
+          <mxGeometry x="20" y="80" width="760" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxvJvDvN9WPXSz892Fz-9" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="SAxvJvDvN9WPXSz892Fz-6">
+          <mxGeometry x="20" y="200" width="760" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxvJvDvN9WPXSz892Fz-10" value="Transportadora" style="swimlane;startSize=20;horizontal=0;" vertex="1" parent="SAxvJvDvN9WPXSz892Fz-1">
+          <mxGeometry x="40" y="920" width="750" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxvJvDvN9WPXSz892Fz-14" value="Cliente chega no restaurante" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SAxvJvDvN9WPXSz892Fz-1">
+          <mxGeometry x="100" y="420" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

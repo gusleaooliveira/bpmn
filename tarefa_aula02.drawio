@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T15:18:28.724Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="03mkY61c2627phbh8G3h" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-06T15:46:02.469Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="RRmUDslb08wpCsfE2Rl1" version="13.7.7" type="github">
   <diagram id="fiaMoSsyoyp-pJfvf07h" name="Page-1">
     <mxGraphModel dx="718" dy="1556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pjXi1nHpoOmAQkaqrBQA-49" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#000000;fillColor=none;gradientColor=none;dashPattern=8 3 1 3;strokeWidth=2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="460" width="473" height="190" as="geometry" />
+        </mxCell>
         <mxCell id="pjXi1nHpoOmAQkaqrBQA-1" value="Suporte Técnico - As-Is" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="170" width="2610" height="510" as="geometry" />
         </mxCell>
@@ -105,6 +108,9 @@
         <mxCell id="pjXi1nHpoOmAQkaqrBQA-40" value="Diagnosticar problema" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="500" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="pjXi1nHpoOmAQkaqrBQA-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pjXi1nHpoOmAQkaqrBQA-41" target="pjXi1nHpoOmAQkaqrBQA-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pjXi1nHpoOmAQkaqrBQA-41" value="Manutenção do equipamento" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="500" width="173" height="30" as="geometry" />
         </mxCell>
@@ -135,11 +141,11 @@
             <mxPoint x="690" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pjXi1nHpoOmAQkaqrBQA-49" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#000000;fillColor=none;gradientColor=none;dashPattern=8 3 1 3;strokeWidth=2;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="827" y="460" width="473" height="190" as="geometry" />
-        </mxCell>
         <mxCell id="pjXi1nHpoOmAQkaqrBQA-50" value="Visita técnica" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="1043.5" y="600" width="86.5" height="20" as="geometry" />
+          <mxGeometry x="1020.25" y="610" width="86.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pjXi1nHpoOmAQkaqrBQA-51" value="Completar formulário de atendimento" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="485" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

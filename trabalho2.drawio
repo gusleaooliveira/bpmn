@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T14:06:14.200Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" version="13.8.0" etag="F5shFu4KgD39YkCLdBGF" type="github"><diagram id="2RpqLSvx9xuu1dzIBI79">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-19T14:18:32.935Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="498LcgEyBdGbtkebA-Qd" version="13.8.0" type="github">
+  <diagram id="2RpqLSvx9xuu1dzIBI79" name="Page-1">
+    <mxGraphModel dx="343" dy="185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vdvvtg2PDydRFT4RrtTh-10" value="Atendimento Pizzaria" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="270" width="1790" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="vdvvtg2PDydRFT4RrtTh-11" value="Atendente" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="vdvvtg2PDydRFT4RrtTh-10">
+          <mxGeometry x="20" width="1770" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vdvvtg2PDydRFT4RrtTh-16" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=standard;symbol=message;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="vdvvtg2PDydRFT4RrtTh-11">
+          <mxGeometry x="89.99999999999989" y="30" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vdvvtg2PDydRFT4RrtTh-12" value="Cozinheiro" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="vdvvtg2PDydRFT4RrtTh-10">
+          <mxGeometry x="20" y="120" width="1770" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vdvvtg2PDydRFT4RrtTh-13" value="Entregador" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="vdvvtg2PDydRFT4RrtTh-10">
+          <mxGeometry x="20" y="240" width="1770" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vdvvtg2PDydRFT4RrtTh-14" value="Cliente" style="swimlane;startSize=20;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="1760" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vdvvtg2PDydRFT4RrtTh-15" value="" style="startArrow=oval;startFill=0;startSize=7;endArrow=block;endFill=0;endSize=10;dashed=1;html=1;" edge="1" parent="1" target="vdvvtg2PDydRFT4RrtTh-16">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="294" y="160" as="sourcePoint" />
+            <mxPoint x="270" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vdvvtg2PDydRFT4RrtTh-17" value="Pedido via telefone" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="200" width="50" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

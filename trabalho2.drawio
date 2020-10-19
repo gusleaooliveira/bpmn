@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T14:18:32.935Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="498LcgEyBdGbtkebA-Qd" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-19T14:27:58.904Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="zm1GRWppGZLnCQB3U1m0" version="13.8.0" type="github">
   <diagram id="2RpqLSvx9xuu1dzIBI79" name="Page-1">
-    <mxGraphModel dx="343" dy="185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="858" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,14 +10,51 @@
         <mxCell id="vdvvtg2PDydRFT4RrtTh-11" value="Atendente" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="vdvvtg2PDydRFT4RrtTh-10">
           <mxGeometry x="20" width="1770" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="vdvvtg2PDydRFT4RrtTh-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="vdvvtg2PDydRFT4RrtTh-11" source="vdvvtg2PDydRFT4RrtTh-16" target="vdvvtg2PDydRFT4RrtTh-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="45" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vdvvtg2PDydRFT4RrtTh-22" value="É cadastrado?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vdvvtg2PDydRFT4RrtTh-11">
+          <mxGeometry x="181.5" y="10" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vdvvtg2PDydRFT4RrtTh-20" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;background=gateway;outlineConnect=0;outline=none;symbol=exclusiveGw;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="vdvvtg2PDydRFT4RrtTh-11">
+          <mxGeometry x="209" y="30" width="30" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="vdvvtg2PDydRFT4RrtTh-16" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=standard;symbol=message;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="vdvvtg2PDydRFT4RrtTh-11">
           <mxGeometry x="89.99999999999989" y="30" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vdvvtg2PDydRFT4RrtTh-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="vdvvtg2PDydRFT4RrtTh-11" source="vdvvtg2PDydRFT4RrtTh-20" target="vdvvtg2PDydRFT4RrtTh-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="45" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vdvvtg2PDydRFT4RrtTh-24" value="Cadastra pedido" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="vdvvtg2PDydRFT4RrtTh-11">
+          <mxGeometry x="164" y="80" width="120" height="25" as="geometry" />
         </mxCell>
         <mxCell id="vdvvtg2PDydRFT4RrtTh-12" value="Cozinheiro" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="vdvvtg2PDydRFT4RrtTh-10">
           <mxGeometry x="20" y="120" width="1770" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="vdvvtg2PDydRFT4RrtTh-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="vdvvtg2PDydRFT4RrtTh-12" source="vdvvtg2PDydRFT4RrtTh-25" target="vdvvtg2PDydRFT4RrtTh-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vdvvtg2PDydRFT4RrtTh-25" value="Montar pizza" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="vdvvtg2PDydRFT4RrtTh-12">
+          <mxGeometry x="179" y="30" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vdvvtg2PDydRFT4RrtTh-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="vdvvtg2PDydRFT4RrtTh-12" source="vdvvtg2PDydRFT4RrtTh-28" target="vdvvtg2PDydRFT4RrtTh-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vdvvtg2PDydRFT4RrtTh-28" value="Assar Pizza" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="vdvvtg2PDydRFT4RrtTh-12">
+          <mxGeometry x="310" y="30" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vdvvtg2PDydRFT4RrtTh-30" value="Empacotar Pizza" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="vdvvtg2PDydRFT4RrtTh-12">
+          <mxGeometry x="460" y="30" width="130" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="vdvvtg2PDydRFT4RrtTh-13" value="Entregador" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="vdvvtg2PDydRFT4RrtTh-10">
           <mxGeometry x="20" y="240" width="1770" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vdvvtg2PDydRFT4RrtTh-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="vdvvtg2PDydRFT4RrtTh-10" source="vdvvtg2PDydRFT4RrtTh-24" target="vdvvtg2PDydRFT4RrtTh-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vdvvtg2PDydRFT4RrtTh-14" value="Cliente" style="swimlane;startSize=20;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="40" width="1760" height="120" as="geometry" />

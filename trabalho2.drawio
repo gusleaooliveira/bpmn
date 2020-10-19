@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T16:19:52.022Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="4I0aUne_T_71qzbhAN3T" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-19T16:23:26.103Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="JicqImk8fhHw3wsHoDol" version="13.8.0" type="github">
   <diagram id="2RpqLSvx9xuu1dzIBI79" name="Page-1">
     <mxGraphModel dx="858" dy="1631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -184,12 +184,13 @@
           <mxGeometry x="20" y="520" width="2210" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vdvvtg2PDydRFT4RrtTh-53" value="Receber Bolsa e Pedido" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="vdvvtg2PDydRFT4RrtTh-13" vertex="1">
-          <mxGeometry x="1210" y="60" width="240" height="30" as="geometry" />
+          <mxGeometry x="1290" y="60" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vdvvtg2PDydRFT4RrtTh-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="vdvvtg2PDydRFT4RrtTh-10" source="vdvvtg2PDydRFT4RrtTh-49" target="vdvvtg2PDydRFT4RrtTh-53" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="955" y="595" />
+              <mxPoint x="955" y="560" />
+              <mxPoint x="1430" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>

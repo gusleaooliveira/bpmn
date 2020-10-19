@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T15:22:57.679Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="K5Hw3VJ-nlTOkkuwLOqi" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-19T15:27:20.683Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="wmSmYxqZPJbkqqjvO9Gx" version="13.8.0" type="github">
   <diagram id="2RpqLSvx9xuu1dzIBI79" name="Page-1">
     <mxGraphModel dx="715" dy="1554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -77,6 +77,9 @@
               <mxPoint x="432" y="100" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vdvvtg2PDydRFT4RrtTh-79" value="Processo de montar, assar e&amp;nbsp; empacotar a pizza, enviando para o ajudante de cozinheiro&amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vdvvtg2PDydRFT4RrtTh-12">
+          <mxGeometry x="160" y="110" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vdvvtg2PDydRFT4RrtTh-77" value="" style="html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;rotation=-180;" vertex="1" parent="vdvvtg2PDydRFT4RrtTh-12">
           <mxGeometry x="310" y="100" width="50" height="100" as="geometry" />

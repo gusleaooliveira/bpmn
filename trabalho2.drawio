@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T16:23:26.103Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="JicqImk8fhHw3wsHoDol" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-19T16:24:41.941Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="dK72VexWmg6te4RVPm97" version="13.8.0" type="github">
   <diagram id="2RpqLSvx9xuu1dzIBI79" name="Page-1">
     <mxGraphModel dx="858" dy="1631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -186,11 +186,17 @@
         <mxCell id="vdvvtg2PDydRFT4RrtTh-53" value="Receber Bolsa e Pedido" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="vdvvtg2PDydRFT4RrtTh-13" vertex="1">
           <mxGeometry x="1290" y="60" width="240" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Lkvbgb88_iQK6pIqarr5-33" value="Pedido" style="shape=note;size=14;whiteSpace=wrap;html=1;" vertex="1" parent="vdvvtg2PDydRFT4RrtTh-13">
+          <mxGeometry x="1180" y="45" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lkvbgb88_iQK6pIqarr5-34" value="Bolsa" style="shape=note;size=13;whiteSpace=wrap;html=1;" vertex="1" parent="vdvvtg2PDydRFT4RrtTh-13">
+          <mxGeometry x="1110" y="45" width="50" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="vdvvtg2PDydRFT4RrtTh-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="vdvvtg2PDydRFT4RrtTh-10" source="vdvvtg2PDydRFT4RrtTh-49" target="vdvvtg2PDydRFT4RrtTh-53" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="955" y="560" />
-              <mxPoint x="1430" y="560" />
+              <mxPoint x="955" y="540" />
+              <mxPoint x="1430" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>

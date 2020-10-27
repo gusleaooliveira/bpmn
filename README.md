@@ -15,6 +15,8 @@ Represente em processos colaborativos o seguinte cenário:
 6. A bolsa é entregue ao entregador (papel interno), que recebe também o pedido impresso com o endereço para a entrega. O entregador realiza a entrega do pedido; 
 7. O cliente recebe o pedido e os processos são finalizados.
 
+[Baixar imagem](trabalho2.png)
+
 ![trabalho atual](trabalho2.png)
 
 

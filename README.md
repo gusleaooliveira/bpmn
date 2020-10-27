@@ -1,4 +1,26 @@
 # Atividade
+## Atividade aula 22/10/2020
+
+Represente em processos colaborativos o seguinte cenário: 
+
+1. O cliente (participante externo) faz o pedido para a pizzaria via telefone; 
+2. A atendente (papel interno) identifica se o cliente já está cadastrado no sistema; 
+3. Se for um novo cliente, primeiro é feito seu cadastro. Se o cliente já estiver cadastrado, a atendente digita o pedido no sistema; 
+4. Após o pedido ser digitado a atendente imprime o pedido e repassa para a cozinha iniciar a produção; 
+5. Na cozinha ocorrem as seguintes tarefas; 
+
+   - A pizza é montada, assada e colocada na caixa para a entrega; 
+   - Em seguida alguém verifica no pedido se o cliente pediu bebida e/ou sobremesa; 
+   - No final os itens do pedido são colocados na bolsa térmica para transporte. 
+6. A bolsa é entregue ao entregador (papel interno), que recebe também o pedido impresso com o endereço para a entrega. O entregador realiza a entrega do pedido; 
+7. O cliente recebe o pedido e os processos são finalizados.
+
+![trabalho atual](C:\Users\Gustavo\Documents\GitHub\bpmn\trabalho2.png)
+
+
+
+---
+
 ## Atividade 02
 
 Você vai modelar o processo de suporte técnico de uma empresa de condicionadores de ar. O processo inicia no SAC (Serviço de atendimento ao cliente). Você entrevistou o analista de suporte e ele explicou resumidamente o fluxo padrão para resolver problemas técnicos que são relatados pelos clientes após instalação do aparelho:
